@@ -1,0 +1,18 @@
+{
+    "donuts": [
+        {  
+          "id": 1,
+          "flavor": "chocolate brownie",
+          "price": 1.20,
+          "topping": "iceing",
+          "filling": "none"
+        },
+        {  
+          "id": 2,
+          "flavor": "white chocolate brownie",
+          "price": 1.20,
+          "topping": "iceing",
+          "filling": "none"
+        }
+    ]
+}
